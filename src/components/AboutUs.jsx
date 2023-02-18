@@ -1,6 +1,8 @@
 import React from 'react'
 import AboutUsImg from '../img/AboutUsImg.jpeg'
 
+
+// This is the about us section
 const AboutUs = () => {
   return (
     <section className="grid grid-cols-1 md:grid-cols-2 w-full gap-5" id="home">
